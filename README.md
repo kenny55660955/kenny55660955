@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working for CMoney in Taipei
 - 🌱 I’m iOS Swift Developer
-- 📫 How to reach me: Please contact me by email.
+- 📫 Please contact me by email.
 - ⭐️ Wish I Could work in UK oneday.
 
 <!--
