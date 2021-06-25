@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, This is Kenny's Profile. Welcome. 👋
 - 🔭 I’m currently working for CMoney in Taipei
 - 🌱 I’m iOS Swift Developer
 - 📫 Please contact me by email.
