@@ -1,6 +1,6 @@
 ### Hey, This is Kenny's Profile. Welcome. 👋
-- 🔭 I’m currently working for CMoney in Taipei
-- 🌱 I’m Junior iOS Developer 
+- 👔 I'm currently working for CMoney in Taipei
+- 🧑‍💻 I'm Junior iOS Developer 
 - 📫 Please contact me by email.
 
 <!--
